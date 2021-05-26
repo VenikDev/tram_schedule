@@ -1,0 +1,33 @@
+{
+    "name": "Тагильский трамвай",
+    "short_name": "Тагильский трамвай",
+    "theme_color": "#F4511E",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "./img/icons/tram256x256.webp",
+            "sizes": "256x256",
+            "type": "image/webp"
+        },
+        {
+            "src": "./img/icons/tram512x512.webp",
+            "sizes": "512x512",
+            "type": "image/webp"
+        },
+        {
+            "src": "./img/icons/tram256x256.webp",
+            "sizes": "256x256",
+            "type": "image/webp",
+            "purpose": "maskable"
+        },
+        {
+            "src": "./img/icons/tram512x512.webp",
+            "sizes": "512x512",
+            "type": "image/webp",
+            "purpose": "maskable"
+        }
+    ]
+}
